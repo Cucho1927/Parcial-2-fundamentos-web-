@@ -15,8 +15,8 @@ Versión final del parcial con imágenes optimizadas y locales para revisión si
 
 ## Instrucciones
 1. Descomprimir `parcial-2-final.zip`.
-2. Abrir `index.html` en un navegador moderno.
-3. Subir a GitHub si deseas (la carpeta `images/` contiene todos los recursos necesarios).
+2. Abrir `index.html` en un navegador.
+
 
 ## Ramas (sugerido)
 Trabajo individual en rama `andres-gomez`.
